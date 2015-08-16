@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Dealing with lots of traffic using load balancing
+permalink: /a-visualization-of-my-hug-of-death/index.html
+title: My experience with a Hug of Death - a cautionary tale for novices
 date: 2015-06-15
 comments: true
 archive: false
 tags: blog, web development, something, else
 blog: true
-description: My experience with beginning web development and how to deal with high impact websites using load balancing.
+description: When I first posted my music discovery app to the internet it was so popular that it had trouble serving all the visitors at once. If I had known a few more things I probably could have avoided all the problems!
 ---
 
 Introduction

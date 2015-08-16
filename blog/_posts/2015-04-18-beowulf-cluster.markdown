@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /2015/04/18/python-beowulf-cluster-find-a-use-for-those-computers-that-are-10-years-old/index.html
 title: Beowulf cluster in less than 200 lines of code
 date: 2015-04-18
 comments: true

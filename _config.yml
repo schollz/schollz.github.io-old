@@ -1,5 +1,5 @@
-name: Zackary Scholl
-description:  Research, programming, web development
+name: Raspberry Pi AI
+description:  Programming, electronics, and web development
 
 sass:
   sass_dir: assets/css/_sass
@@ -19,7 +19,7 @@ owner:
     github: schollz
     disqus_shortname: rpiai
 
-ga_id: UA-2345677-4
+ga_id: UA-2345677-6
 ga_username: auto
 
 timezone: Africa/Accra

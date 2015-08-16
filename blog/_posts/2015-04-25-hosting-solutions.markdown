@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hosting solutions
+title: Affordable hosting solutions
 date: 2015-04-25
 comments: true
 archive: false

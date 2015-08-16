@@ -1,9 +1,12 @@
 ---
 layout: default
+title: Projects
 ---
 <div class="col-sm-12">
+    <div class="page-title">
+        {{ page.title }}
+    </div>
     <div class="page">
-
 
             
             <div class="page-item">
@@ -34,7 +37,7 @@ layout: default
                     <ul class="page-item-title">
                         <li><time class="timeago meta" datetime="{{ "2015-04-18" |  date: "%A %-d %B %Y" }}">{{ "2015-05-03" }}</time>
                         <a class="meta pull-right comments-meta" href="https://github.com/schollz/beowulf_ssh_cluster">source <i class="fa fa-code fa-lg"></i></a></li>
-                        <li><a class="title" href="/beowulf-cluster/">Beowulf SSH cluster</a></li>
+                        <li><a class="title" href="/2015/04/18/python-beowulf-cluster-find-a-use-for-those-computers-that-are-10-years-old/index.html">Beowulf SSH cluster</a></li>
                     </ul>
                 </div>
                 <div class="col-sm-4 hide-on-phone">
@@ -79,7 +82,7 @@ layout: default
                     <ul class="page-item-title">
                         <li><time class="timeago meta" datetime="{{ "2014-11-30" |  date: "%A %-d %B %Y" }}">{{ "2015-05-03" }}</time>
                         <a class="meta pull-right comments-meta" href="http://github.com/schollz/poetry-generator">source <i class="fa fa-code fa-lg"></i></a></li>
-                        <li><a class="title" href="/poetry-generator/">Poetry generator</a></li>
+                        <li><a class="title" href="/2015/01/24/turing-test-passed-using-computer-generated-poetry/index.html">Poetry generator</a></li>
                     </ul>
                 </div>
                 <div class="col-sm-4 hide-on-phone">
@@ -142,9 +145,7 @@ layout: default
 </div>
 <script>
 $(document).ready(function() {
-    $(".page").children().first().find(".page-item-body").css( "display", "block" );
-    $(".page").children().first().find(".pib-indicator")
-        .find("i").toggleClass("fa-compress").toggleClass("fa-expand");
+
 
     $(".page-item .pib-indicator").click(function() {
         var preview = $(this);

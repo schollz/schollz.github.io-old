@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /benchmarking-gpio-pins-of-raspberry-pi-model-b-plus/index.html
 title: Benchmarking the Raspberry Pi GPIO I/O Speed
 date: 2015-06-07
 comments: true

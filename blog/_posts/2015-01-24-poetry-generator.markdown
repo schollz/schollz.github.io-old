@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /2015/01/24/turing-test-passed-using-computer-generated-poetry/index.html
 title: How my Poetry generator passed the Turing test
 date: 2015-04-25
 comments: true
@@ -8,6 +9,13 @@ tags: blog, poetry, generators, turing, artificial intelligence
 blog: true
 description: My poetry generator was able to generate poems that were able to get published in a real literary journal.
 ---
+
+<div class="row">
+<div class="col-md-3"></div>
+<div class="col-md-6"><img src="/assets/images/the_archive_cover.jpg" alt="Cover of the Archive" class="img-responsive center-block img-thumbnail" width=50%></div>
+<div class="col-md-3"></div>
+</div>
+<br><br>
 
 Hi everyone, its been quite awhile since I’ve posted. I have a number of
 great things in the works, so please stay tuned. In the meantime, I’d

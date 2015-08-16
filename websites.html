@@ -1,9 +1,10 @@
 ---
 layout: default
+title: Sites I maintain
 ---
 <div class="col-sm-12">
-    <div class="page">
-    <p>I currently maintain the following websites:</p>
+    <div class="page-title">
+        {{ page.title }}
     </div>
     <div class="page">
 
@@ -25,7 +26,46 @@ layout: default
                     This site was born after I realized how many great bands I was missing because I don't attend the music festivals where bands are best sampled. I wanted a tool through which I could sample other bands and select them based on my musical preferences. To learn details about how I made it, check out my blog.
                 </div>
             </div>
-
+            
+            <div class="page-item">
+                <div class="col-sm-8">
+                    <ul class="page-item-title">
+                        <li><a class="title" href="http://www.poetrygenerator.ninja/">Poetry generator</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-4 hide-on-phone">
+                    <ul class="page-item-title pull-right meta">
+                        <li><span class="stats">1,000 users/month <i class="fa fa-users"></i></span>
+                        <li><a href="http://www.poetrygenerator.ninja/">link<i class="fa fa-ellipsis-h"></i></a></li>
+                        <li><a class="pib-indicator">gist <i class="fa fa-expand"></i></a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-sm-12 page-item-body">
+                    A poetry generator that I wrote in Python that you can demo. I blogged about it <a href="/2015/01/24/turing-test-passed-using-computer-generated-poetry">here</a>.
+                </div>
+            </div>
+            
+                        
+            <div class="page-item">
+                <div class="col-sm-8">
+                    <ul class="page-item-title">
+                        <li><a class="title" href="http://rpiai.com/">Rasperry Pi AI (this site)</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-4 hide-on-phone">
+                    <ul class="page-item-title pull-right meta">
+                        <li><span class="stats">700 users/month <i class="fa fa-users"></i></span>
+                        <li><a href="http://rpiai.com/">link<i class="fa fa-ellipsis-h"></i></a></li>
+                        <li><a class="pib-indicator">gist <i class="fa fa-expand"></i></a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-sm-12 page-item-body">
+                    Human attempts at artifical intelligence and other technological forays.
+                </div>
+            </div>       
+            
             <div class="page-item">
                 <div class="col-sm-8">
                     <ul class="page-item-title">
@@ -45,25 +85,7 @@ layout: default
                 </div>
             </div>
             
-            
-            <div class="page-item">
-                <div class="col-sm-8">
-                    <ul class="page-item-title">
-                        <li><a class="title" href="http://rpiai.com/">Rasperry Pi AI</a></li>
-                    </ul>
-                </div>
-                <div class="col-sm-4 hide-on-phone">
-                    <ul class="page-item-title pull-right meta">
-                        <li><span class="stats">700 users/month <i class="fa fa-users"></i></span>
-                        <li><a href="http://rpiai.com/">link<i class="fa fa-ellipsis-h"></i></a></li>
-                        <li><a class="pib-indicator">gist <i class="fa fa-expand"></i></a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="col-sm-12 page-item-body">
-                    Human attempts at artifical intelligence and other technological forays.
-                </div>
-            </div>            
+     
             
             <div class="page-item">
                 <div class="col-sm-8">
@@ -84,14 +106,13 @@ layout: default
 
 Everything you write is saved automatically. Each note has a unique URL which you can share with your friends to edit as well, or keep to access later!
                 </div>
-            </div>
+            
+          </div>
+
     </div>
 </div>
 <script>
 $(document).ready(function() {
-    $(".page").children().first().find(".page-item-body").css( "display", "block" );
-    $(".page").children().first().find(".pib-indicator")
-        .find("i").toggleClass("fa-compress").toggleClass("fa-expand");
 
     $(".page-item .pib-indicator").click(function() {
         var preview = $(this);
