@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yet another Twitter retweet-to-win bot
-date: ?
+date: 2015-08-19
 comments: true
 archive: false
 tags: python, coding, bot, twitter
