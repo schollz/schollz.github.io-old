@@ -36,4 +36,7 @@ description: Things I learned making a retweet-to-win bot
 11. Back Ops3 Beta code
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">RT for a chance to win <a href="https://twitter.com/hashtag/BlackOps3?src=hash">#BlackOps3</a> Beta Codes! <a href="https://twitter.com/hashtag/BO3Beta?src=hash">#BO3Beta</a> &#10;&#10;Info: <a href="http://t.co/wgtN4zx0uL">http://t.co/wgtN4zx0uL</a>&#10;Stream: <a href="http://t.co/46nJ6CjXTP">http://t.co/46nJ6CjXTP</a> <a href="http://t.co/8sP6gi0raW">pic.twitter.com/8sP6gi0raW</a></p>&mdash; ASTRO Gaming (@ASTROGaming) <a href="https://twitter.com/ASTROGaming/status/634049625020694528">August 19, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+12. Two tickets to Men Without Hats in Dallas, Texas
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">We&#39;re sending you &amp; your dancing partner to <a href="https://twitter.com/MenWithoutHats1">@MenWithoutHats1</a> 8/23 at GMBG! RT to win! <a href="http://t.co/ZdsKWpekdJ">http://t.co/ZdsKWpekdJ</a></p>&mdash; GasMonkeyDallas (@GasMonkeyDallas) <a href="https://twitter.com/GasMonkeyDallas/status/634072667977588736">August 19, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
