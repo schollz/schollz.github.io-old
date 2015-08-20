@@ -47,4 +47,6 @@ How many of the retweets are even real? Maybe not many of them. Suppose on avera
 12. Two tickets to Men Without Hats in Dallas, Texas
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">We&#39;re sending you &amp; your dancing partner to <a href="https://twitter.com/MenWithoutHats1">@MenWithoutHats1</a> 8/23 at GMBG! RT to win! <a href="http://t.co/ZdsKWpekdJ">http://t.co/ZdsKWpekdJ</a></p>&mdash; GasMonkeyDallas (@GasMonkeyDallas) <a href="https://twitter.com/GasMonkeyDallas/status/634072667977588736">August 19, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+13. Football digital card? 96 fairley
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Giveaways for loyals retweet for a chance to win starts at 50 retweets <a href="https://twitter.com/bloodreaper77">@bloodreaper77</a> <a href="https://twitter.com/CtsVikes">@CtsVikes</a> <a href="https://twitter.com/STQRMY">@STQRMY</a> <a href="http://t.co/KyTmKrRgfc">pic.twitter.com/KyTmKrRgfc</a></p>&mdash; Madden Ut_11 (@Rjthegoat11) <a href="https://twitter.com/Rjthegoat11/status/634349680747520000">August 20, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
