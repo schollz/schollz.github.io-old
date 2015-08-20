@@ -9,6 +9,14 @@ blog: true
 description: Things I learned making a retweet-to-win bot
 ---
 
+# Statistics
+
+So far 2,498 contests have been entered and 12 have been won, giving a winning percentage of 0.5%. When I enter a given contest it an average of 32 retweets with a standard deviation of 90 retweets.
+
+# How many of the retweets are real?
+
+How many of the retweets are even real? Maybe not many of them. Suppose on average, a contest saturates at X retweets, giving me a 1/X chance of winning. My winning percentage should be roughly equal to the 1/X, so given I won Y contests there should have been XY contests that are definetly real.
+
 # Contests won
 
 1.  Autographed cookbook  
