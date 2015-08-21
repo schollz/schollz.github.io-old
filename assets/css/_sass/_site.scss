@@ -31,7 +31,7 @@ main {position: relative;}
   list-style: none;
   padding: 0;
   .fa-comments-o {color: black;}
-  .fa-ellipsis-h {color: #428bca;}
+  .fa-ellipsis-h {color: $lnk-color;}
   .fa-compress {color: red;}
   .fa-expand {color: #22D722;}
 }
@@ -312,7 +312,7 @@ pre {
   
   #menu {
     display: block;
-    color: #428bca !important;
+    color: $lnk-color !important;
     font-weight: 700 !important;
     margin-top: 1px;
     background: $primary-color;
